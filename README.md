@@ -12,7 +12,9 @@
 📊 Datasets utilizados:
 
 `plans.csv` → información de los planes actuales (precio, minutos incluidos, GB incluidos, costo por extra)
+
 `users.csv` → información de los clientes (edad, ciudad, fecha de registro, plan, churn)
+
 `usage.csv` → detalle del uso real de los servicios (llamadas y mensajes)
 
 Los archivos deben ubicarse en la carpeta `/datasets/` relativa a la ubicación del notebook
